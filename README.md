@@ -1,70 +1,27 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. React Components:
+Explanation: React components are the building blocks of a React application. They encapsulate the UI and its behavior.
+Documentation Link: React Components
+2. State and useState Hook:
+Explanation: State allows components to store and manage data that can change over time. The useState hook is used to add state to functional components.
+Documentation Link: State and Lifecycle
+3. Handling Forms in React:
+Explanation: React provides a way to handle form data and form submission. This involves using the onChange event to update state as the user types and the onSubmit event for form submission.
+Documentation Link: Forms
+4. Making API Requests with Axios:
+Explanation: Axios is a popular JavaScript library for making HTTP requests. In the project, it's used to fetch data from the GitHub API.
+Documentation Link: Axios
+5. React Conditional Rendering:
+Explanation: Conditional rendering in React allows you to show different components or content based on certain conditions. It's used to display error messages and user data conditionally.
+Documentation Link: Conditional Rendering
+6. React Effect Hook:
+Explanation: The useEffect hook is used for side effects in functional components, such as data fetching, subscriptions, or manually changing the DOM.
+Documentation Link: Effect Hook
+7. React Props:
+Explanation: Props (short for properties) are a way to pass data from parent to child components. They are used to pass functions and data between components.
+Documentation Link: Components and Props
+8. React Router (Optional):
+Explanation: React Router is a library for adding navigation to React applications. It's used for handling different views or pages in a single-page application.
+Documentation Link: React Router
+9. Error Boundaries (Optional):
+Explanation: Error boundaries are used to catch JavaScript errors anywhere in a component tree and log those errors or display a fallback UI.
+Documentation Link: Error Boundaries
